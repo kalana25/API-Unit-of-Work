@@ -1,0 +1,8 @@
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb

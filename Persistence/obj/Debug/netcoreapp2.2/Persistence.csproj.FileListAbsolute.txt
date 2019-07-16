@@ -1,0 +1,16 @@
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Persistence.deps.json
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Persistence.dll
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Persistence.pdb
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Core.dll
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Core.pdb
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.csprojResolveAssemblyReference.cache
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.csproj.CoreCompileInputs.cache
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.AssemblyInfoInputs.cache
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.AssemblyInfo.cs
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.csproj.CopyComplete
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.dll
+D:\Practice\API_Evolution\UnitOfWork\Persistence\obj\Debug\netcoreapp2.2\Persistence.pdb
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Persistence.runtimeconfig.json
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Persistence.runtimeconfig.dev.json
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Entities.dll
+D:\Practice\API_Evolution\UnitOfWork\Persistence\bin\Debug\netcoreapp2.2\Entities.pdb

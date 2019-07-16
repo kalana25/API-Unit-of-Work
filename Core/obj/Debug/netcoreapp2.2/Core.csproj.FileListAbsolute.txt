@@ -1,0 +1,12 @@
+D:\Practice\API_Evolution\UnitOfWork\Core\bin\Debug\netcoreapp2.2\Core.deps.json
+D:\Practice\API_Evolution\UnitOfWork\Core\bin\Debug\netcoreapp2.2\Core.dll
+D:\Practice\API_Evolution\UnitOfWork\Core\bin\Debug\netcoreapp2.2\Core.pdb
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.csproj.CoreCompileInputs.cache
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfoInputs.cache
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.AssemblyInfo.cs
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.dll
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.pdb
+D:\Practice\API_Evolution\UnitOfWork\Core\bin\Debug\netcoreapp2.2\Entities.dll
+D:\Practice\API_Evolution\UnitOfWork\Core\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.csprojResolveAssemblyReference.cache
+D:\Practice\API_Evolution\UnitOfWork\Core\obj\Debug\netcoreapp2.2\Core.csproj.CopyComplete
